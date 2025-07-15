@@ -40,11 +40,18 @@ markerFolder: ./Gulf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf|Gulf]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.public|Gulf.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.internal|Gulf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.protect|Gulf.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.private|Gulf.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.personal|Gulf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.secret|Gulf.secret]] 
+
+### #is_/same_as :: [Gulf](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Gulf.md) 
+
+### #is_/same_as :: [Gulf.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Gulf.public.md) 
+
+### #is_/same_as :: [Gulf.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Gulf.internal.md) 
+
+### #is_/same_as :: [Gulf.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Gulf.protect.md) 
+
+### #is_/same_as :: [Gulf.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Gulf.private.md) 
+
+### #is_/same_as :: [Gulf.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Gulf.personal.md) 
+
+### #is_/same_as :: [Gulf.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Gulf.secret.md)
 

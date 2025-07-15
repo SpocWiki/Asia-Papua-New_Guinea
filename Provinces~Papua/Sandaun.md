@@ -40,11 +40,18 @@ markerFolder: ./Sandaun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun|Sandaun]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.public|Sandaun.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.internal|Sandaun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.protect|Sandaun.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.private|Sandaun.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.personal|Sandaun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Sandaun.secret|Sandaun.secret]] 
+
+### #is_/same_as :: [Sandaun](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Sandaun.md) 
+
+### #is_/same_as :: [Sandaun.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Sandaun.public.md) 
+
+### #is_/same_as :: [Sandaun.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Sandaun.internal.md) 
+
+### #is_/same_as :: [Sandaun.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Sandaun.protect.md) 
+
+### #is_/same_as :: [Sandaun.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Sandaun.private.md) 
+
+### #is_/same_as :: [Sandaun.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Sandaun.personal.md) 
+
+### #is_/same_as :: [Sandaun.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Sandaun.secret.md)
 

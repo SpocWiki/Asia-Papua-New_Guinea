@@ -40,11 +40,18 @@ markerFolder: ./Enga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga|Enga]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.public|Enga.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.internal|Enga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.protect|Enga.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.private|Enga.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.personal|Enga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.secret|Enga.secret]] 
+
+### #is_/same_as :: [Enga](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Enga.md) 
+
+### #is_/same_as :: [Enga.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Enga.public.md) 
+
+### #is_/same_as :: [Enga.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Enga.internal.md) 
+
+### #is_/same_as :: [Enga.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Enga.protect.md) 
+
+### #is_/same_as :: [Enga.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Enga.private.md) 
+
+### #is_/same_as :: [Enga.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Enga.personal.md) 
+
+### #is_/same_as :: [Enga.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Enga.secret.md)
 

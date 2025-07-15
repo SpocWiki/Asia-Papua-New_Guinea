@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby|Port_Moresby]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.public|Port_Moresby.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.internal|Port_Moresby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.protect|Port_Moresby.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.private|Port_Moresby.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.personal|Port_Moresby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.secret|Port_Moresby.secret]] 
+
+### #is_/same_as :: [Port_Moresby](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.md) 
+
+### #is_/same_as :: [Port_Moresby.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.public.md) 
+
+### #is_/same_as :: [Port_Moresby.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.internal.md) 
+
+### #is_/same_as :: [Port_Moresby.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.protect.md) 
+
+### #is_/same_as :: [Port_Moresby.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.private.md) 
+
+### #is_/same_as :: [Port_Moresby.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.personal.md) 
+
+### #is_/same_as :: [Port_Moresby.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.secret.md)
+

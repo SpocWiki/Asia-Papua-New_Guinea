@@ -40,11 +40,18 @@ markerFolder: ./Manus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus|Manus]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.public|Manus.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.internal|Manus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.protect|Manus.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.private|Manus.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.personal|Manus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Manus.secret|Manus.secret]] 
+
+### #is_/same_as :: [Manus](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Manus.md) 
+
+### #is_/same_as :: [Manus.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Manus.public.md) 
+
+### #is_/same_as :: [Manus.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Manus.internal.md) 
+
+### #is_/same_as :: [Manus.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Manus.protect.md) 
+
+### #is_/same_as :: [Manus.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Manus.private.md) 
+
+### #is_/same_as :: [Manus.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Manus.personal.md) 
+
+### #is_/same_as :: [Manus.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Manus.secret.md)
 

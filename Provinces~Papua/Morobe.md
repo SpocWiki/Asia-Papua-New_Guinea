@@ -40,11 +40,18 @@ markerFolder: ./Morobe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe|Morobe]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.public|Morobe.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.internal|Morobe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.protect|Morobe.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.private|Morobe.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.personal|Morobe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Morobe.secret|Morobe.secret]] 
+
+### #is_/same_as :: [Morobe](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Morobe.md) 
+
+### #is_/same_as :: [Morobe.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Morobe.public.md) 
+
+### #is_/same_as :: [Morobe.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Morobe.internal.md) 
+
+### #is_/same_as :: [Morobe.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Morobe.protect.md) 
+
+### #is_/same_as :: [Morobe.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Morobe.private.md) 
+
+### #is_/same_as :: [Morobe.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Morobe.personal.md) 
+
+### #is_/same_as :: [Morobe.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Morobe.secret.md)
 

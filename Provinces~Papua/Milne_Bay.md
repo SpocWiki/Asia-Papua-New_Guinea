@@ -40,11 +40,18 @@ markerFolder: ./Milne_Bay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay|Milne_Bay]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.public|Milne_Bay.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.internal|Milne_Bay.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.protect|Milne_Bay.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.private|Milne_Bay.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.personal|Milne_Bay.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Milne_Bay.secret|Milne_Bay.secret]] 
+
+### #is_/same_as :: [Milne_Bay](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Milne_Bay.md) 
+
+### #is_/same_as :: [Milne_Bay.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Milne_Bay.public.md) 
+
+### #is_/same_as :: [Milne_Bay.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Milne_Bay.internal.md) 
+
+### #is_/same_as :: [Milne_Bay.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Milne_Bay.protect.md) 
+
+### #is_/same_as :: [Milne_Bay.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Milne_Bay.private.md) 
+
+### #is_/same_as :: [Milne_Bay.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Milne_Bay.personal.md) 
+
+### #is_/same_as :: [Milne_Bay.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Milne_Bay.secret.md)
 

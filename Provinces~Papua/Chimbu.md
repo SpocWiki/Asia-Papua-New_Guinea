@@ -40,11 +40,18 @@ markerFolder: ./Chimbu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu|Chimbu]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.public|Chimbu.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.internal|Chimbu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.protect|Chimbu.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.private|Chimbu.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.personal|Chimbu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Chimbu.secret|Chimbu.secret]] 
+
+### #is_/same_as :: [Chimbu](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu.md) 
+
+### #is_/same_as :: [Chimbu.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu.public.md) 
+
+### #is_/same_as :: [Chimbu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu.internal.md) 
+
+### #is_/same_as :: [Chimbu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu.protect.md) 
+
+### #is_/same_as :: [Chimbu.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu.private.md) 
+
+### #is_/same_as :: [Chimbu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu.personal.md) 
+
+### #is_/same_as :: [Chimbu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu.secret.md)
 

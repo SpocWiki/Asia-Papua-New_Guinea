@@ -40,11 +40,18 @@ markerFolder: ./Southern_Highlands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Southern_Highlands|Southern_Highlands]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Southern_Highlands.public|Southern_Highlands.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Southern_Highlands.internal|Southern_Highlands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Southern_Highlands.protect|Southern_Highlands.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Southern_Highlands.private|Southern_Highlands.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Southern_Highlands.personal|Southern_Highlands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Southern_Highlands.secret|Southern_Highlands.secret]] 
+
+### #is_/same_as :: [Southern_Highlands](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Southern_Highlands.md) 
+
+### #is_/same_as :: [Southern_Highlands.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Southern_Highlands.public.md) 
+
+### #is_/same_as :: [Southern_Highlands.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Southern_Highlands.internal.md) 
+
+### #is_/same_as :: [Southern_Highlands.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Southern_Highlands.protect.md) 
+
+### #is_/same_as :: [Southern_Highlands.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Southern_Highlands.private.md) 
+
+### #is_/same_as :: [Southern_Highlands.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Southern_Highlands.personal.md) 
+
+### #is_/same_as :: [Southern_Highlands.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Southern_Highlands.secret.md)
 

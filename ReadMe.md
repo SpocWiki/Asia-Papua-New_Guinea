@@ -134,11 +134,4 @@ Capital :: [[Port_Moresby]]
 
 
 
-## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea|Papua_New_Guinea]] 
-- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea.public|Papua_New_Guinea.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea.internal|Papua_New_Guinea.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea.protect|Papua_New_Guinea.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea.private|Papua_New_Guinea.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea.personal|Papua_New_Guinea.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea.secret|Papua_New_Guinea.secret]] 
+

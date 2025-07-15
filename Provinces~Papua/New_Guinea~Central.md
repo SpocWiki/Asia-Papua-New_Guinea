@@ -40,11 +40,18 @@ markerFolder: ./New_Guinea~Central/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Central|New_Guinea~Central]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Central.public|New_Guinea~Central.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Central.internal|New_Guinea~Central.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Central.protect|New_Guinea~Central.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Central.private|New_Guinea~Central.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Central.personal|New_Guinea~Central.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Central.secret|New_Guinea~Central.secret]] 
+
+### #is_/same_as :: [New_Guinea~Central](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Central.md) 
+
+### #is_/same_as :: [New_Guinea~Central.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Central.public.md) 
+
+### #is_/same_as :: [New_Guinea~Central.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Central.internal.md) 
+
+### #is_/same_as :: [New_Guinea~Central.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Central.protect.md) 
+
+### #is_/same_as :: [New_Guinea~Central.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Central.private.md) 
+
+### #is_/same_as :: [New_Guinea~Central.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Central.personal.md) 
+
+### #is_/same_as :: [New_Guinea~Central.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Central.secret.md)
 

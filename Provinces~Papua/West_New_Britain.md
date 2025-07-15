@@ -40,11 +40,18 @@ markerFolder: ./West_New_Britain/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain|West_New_Britain]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.public|West_New_Britain.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.internal|West_New_Britain.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.protect|West_New_Britain.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.private|West_New_Britain.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.personal|West_New_Britain.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.secret|West_New_Britain.secret]] 
+
+### #is_/same_as :: [West_New_Britain](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/West_New_Britain.md) 
+
+### #is_/same_as :: [West_New_Britain.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/West_New_Britain.public.md) 
+
+### #is_/same_as :: [West_New_Britain.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/West_New_Britain.internal.md) 
+
+### #is_/same_as :: [West_New_Britain.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/West_New_Britain.protect.md) 
+
+### #is_/same_as :: [West_New_Britain.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/West_New_Britain.private.md) 
+
+### #is_/same_as :: [West_New_Britain.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/West_New_Britain.personal.md) 
+
+### #is_/same_as :: [West_New_Britain.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/West_New_Britain.secret.md)
 

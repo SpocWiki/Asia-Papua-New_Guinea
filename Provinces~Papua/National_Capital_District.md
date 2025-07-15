@@ -40,11 +40,18 @@ markerFolder: ./National_Capital_District/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District|National_Capital_District]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.public|National_Capital_District.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.internal|National_Capital_District.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.protect|National_Capital_District.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.private|National_Capital_District.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.personal|National_Capital_District.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.secret|National_Capital_District.secret]] 
+
+### #is_/same_as :: [National_Capital_District](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/National_Capital_District.md) 
+
+### #is_/same_as :: [National_Capital_District.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/National_Capital_District.public.md) 
+
+### #is_/same_as :: [National_Capital_District.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/National_Capital_District.internal.md) 
+
+### #is_/same_as :: [National_Capital_District.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/National_Capital_District.protect.md) 
+
+### #is_/same_as :: [National_Capital_District.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/National_Capital_District.private.md) 
+
+### #is_/same_as :: [National_Capital_District.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/National_Capital_District.personal.md) 
+
+### #is_/same_as :: [National_Capital_District.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/National_Capital_District.secret.md)
 

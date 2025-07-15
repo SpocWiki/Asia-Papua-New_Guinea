@@ -40,11 +40,18 @@ markerFolder: ./New_Guinea~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Northern|New_Guinea~Northern]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Northern.public|New_Guinea~Northern.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Northern.internal|New_Guinea~Northern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Northern.protect|New_Guinea~Northern.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Northern.private|New_Guinea~Northern.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Northern.personal|New_Guinea~Northern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Northern.secret|New_Guinea~Northern.secret]] 
+
+### #is_/same_as :: [New_Guinea~Northern](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Northern.md) 
+
+### #is_/same_as :: [New_Guinea~Northern.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Northern.public.md) 
+
+### #is_/same_as :: [New_Guinea~Northern.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Northern.internal.md) 
+
+### #is_/same_as :: [New_Guinea~Northern.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Northern.protect.md) 
+
+### #is_/same_as :: [New_Guinea~Northern.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Northern.private.md) 
+
+### #is_/same_as :: [New_Guinea~Northern.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Northern.personal.md) 
+
+### #is_/same_as :: [New_Guinea~Northern.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Northern.secret.md)
 

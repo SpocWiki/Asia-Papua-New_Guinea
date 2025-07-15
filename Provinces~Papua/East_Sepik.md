@@ -40,11 +40,18 @@ markerFolder: ./East_Sepik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/East_Sepik|East_Sepik]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/East_Sepik.public|East_Sepik.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/East_Sepik.internal|East_Sepik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/East_Sepik.protect|East_Sepik.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/East_Sepik.private|East_Sepik.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/East_Sepik.personal|East_Sepik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/East_Sepik.secret|East_Sepik.secret]] 
+
+### #is_/same_as :: [East_Sepik](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/East_Sepik.md) 
+
+### #is_/same_as :: [East_Sepik.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/East_Sepik.public.md) 
+
+### #is_/same_as :: [East_Sepik.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/East_Sepik.internal.md) 
+
+### #is_/same_as :: [East_Sepik.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/East_Sepik.protect.md) 
+
+### #is_/same_as :: [East_Sepik.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/East_Sepik.private.md) 
+
+### #is_/same_as :: [East_Sepik.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/East_Sepik.personal.md) 
+
+### #is_/same_as :: [East_Sepik.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/East_Sepik.secret.md)
 

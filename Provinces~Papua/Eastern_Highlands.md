@@ -1,30 +1,29 @@
 ---
-location: [ -6.5 , 145.6 ] 
+location:
+  - -6.5
+  - 145.6
 type: geo-Region
 title: Eastern_Highlands
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Eastern_Highlands
-
+  - Eastern_Highlands
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Eastern_Highlands

@@ -1,30 +1,29 @@
 ---
-location: [ -7.2 , 142.1 ] 
+location:
+  - -7.2
+  - 142.1
 type: geo-Region
 title: New_Guinea~Western
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- New_Guinea~Western
-
+  - New_Guinea~Western
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # New_Guinea~Western

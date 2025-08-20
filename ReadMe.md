@@ -1,39 +1,40 @@
 ---
 location:
-- -9.5
-- 147.117
+  - -9.5
+  - 147.117
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26993
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Papua New Guinea
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Papua New Guinea
-- Papua Nueva Guinea
-- Papouasie-Nouvelle-Guinée
-- بابوا غينيا الجديدة
-- 巴布亚新几内亚
-- Папуа-Новая Гвинея
-- Independent State of Papua New Guinea
-- Estado Independiente de Papua Nueva Guinea
+  - Papua New Guinea
+  - Papua Nueva Guinea
+  - Papouasie-Nouvelle-Guinée
+  - بابوا غينيا الجديدة
+  - 巴布亚新几内亚
+  - Папуа-Новая Гвинея
+  - Independent State of Papua New Guinea
+  - Estado Independiente de Papua Nueva Guinea
 Languages:
-- en-PG
-- ho
-- meu
-- tpi
+  - en-PG
+  - ho
+  - meu
+  - tpi
 ---
 
 

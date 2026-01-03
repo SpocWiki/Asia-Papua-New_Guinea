@@ -40,17 +40,17 @@ markerFolder: ./Eastern_Highlands/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eastern_Highlands](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands|Eastern_Highlands]] 
 
-### #is_/same_as :: [Eastern_Highlands.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.public|Eastern_Highlands.public]] 
 
-### #is_/same_as :: [Eastern_Highlands.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.internal|Eastern_Highlands.internal]] 
 
-### #is_/same_as :: [Eastern_Highlands.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.protect|Eastern_Highlands.protect]] 
 
-### #is_/same_as :: [Eastern_Highlands.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.private|Eastern_Highlands.private]] 
 
-### #is_/same_as :: [Eastern_Highlands.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.personal|Eastern_Highlands.personal]] 
 
-### #is_/same_as :: [Eastern_Highlands.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Eastern_Highlands.secret|Eastern_Highlands.secret]] 
 

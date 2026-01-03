@@ -61,3 +61,20 @@ Commons_category: Philology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philology) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu/counties~Chimbu/Sina_Sina-Yonggomugl/Philology|Philology]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu/counties~Chimbu/Sina_Sina-Yonggomugl/Philology.public|Philology.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu/counties~Chimbu/Sina_Sina-Yonggomugl/Philology.internal|Philology.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu/counties~Chimbu/Sina_Sina-Yonggomugl/Philology.protect|Philology.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu/counties~Chimbu/Sina_Sina-Yonggomugl/Philology.private|Philology.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu/counties~Chimbu/Sina_Sina-Yonggomugl/Philology.personal|Philology.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/Chimbu/counties~Chimbu/Sina_Sina-Yonggomugl/Philology.secret|Philology.secret]] 
+

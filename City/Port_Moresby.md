@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Port_Moresby](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby|Port_Moresby]] 
 
-### #is_/same_as :: [Port_Moresby.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.public|Port_Moresby.public]] 
 
-### #is_/same_as :: [Port_Moresby.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.internal|Port_Moresby.internal]] 
 
-### #is_/same_as :: [Port_Moresby.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.protect|Port_Moresby.protect]] 
 
-### #is_/same_as :: [Port_Moresby.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.private|Port_Moresby.private]] 
 
-### #is_/same_as :: [Port_Moresby.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.personal|Port_Moresby.personal]] 
 
-### #is_/same_as :: [Port_Moresby.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/City/Port_Moresby.secret|Port_Moresby.secret]] 
 

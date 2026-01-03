@@ -40,17 +40,17 @@ markerFolder: ./New_Guinea~Western/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_Guinea~Western](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western|New_Guinea~Western]] 
 
-### #is_/same_as :: [New_Guinea~Western.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.public|New_Guinea~Western.public]] 
 
-### #is_/same_as :: [New_Guinea~Western.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.internal|New_Guinea~Western.internal]] 
 
-### #is_/same_as :: [New_Guinea~Western.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.protect|New_Guinea~Western.protect]] 
 
-### #is_/same_as :: [New_Guinea~Western.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.private|New_Guinea~Western.private]] 
 
-### #is_/same_as :: [New_Guinea~Western.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.personal|New_Guinea~Western.personal]] 
 
-### #is_/same_as :: [New_Guinea~Western.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea/Provinces~Papua/New_Guinea~Western.secret|New_Guinea~Western.secret]] 
 

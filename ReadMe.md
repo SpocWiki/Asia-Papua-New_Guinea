@@ -74,7 +74,7 @@ Languages:
 
 Region_Name ::  [[Oceania]] 
 Intermediate_Region_Name ::  [[]] 
-Sub-region_Name :: [[../../../Australasia/Melanesia]]] 
+Sub-region_Name :: [[../../../Australasia/Melanesia|Melanesia]]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 
@@ -117,7 +117,7 @@ markerFolder: ./Papua_New_Guinea/
 [name-en::Papua New Guinea] 
 [name-de::Papua-Neuguinea] 
 
-![[Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg]] 
+![[Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg|Emblem_of_Papua_New_Guinea.svg]] 
 
 
 ![[Papua_New_Guinea/Flag_of_Papua_New_Guinea.svg|350]] 

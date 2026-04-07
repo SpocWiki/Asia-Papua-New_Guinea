@@ -3,23 +3,23 @@ aliases:
   - Philologie
 has_id_wikidata: Q40634
 instance_of:
-  - "[[_Standards/WikiData/WD~methodology,185698]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~methodology,185698|WD~methodology,185698]]"
+  - "[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~Geisteswissenschaften,944537]]"
-  - "[[_Standards/WikiData/WD~linguistics,8162]]"
+  - "[[_Standards/WikiData/WD~Geisteswissenschaften,944537|WD~Geisteswissenschaften,944537]]"
+  - "[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]"
 practiced_by:
-  - "[[_Standards/WikiData/WD~philologist,13418253]]"
-  - "[[_Standards/WikiData/WD~candidate_of_philology,19603970]]"
+  - "[[_Standards/WikiData/WD~philologist,13418253|WD~philologist,13418253]]"
+  - "[[_Standards/WikiData/WD~candidate_of_philology,19603970|WD~candidate_of_philology,19603970]]"
 Dewey_Decimal_Classification:
   - "800"
   - "400"

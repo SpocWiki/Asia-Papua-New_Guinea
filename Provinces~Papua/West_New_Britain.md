@@ -25,29 +25,29 @@ keywords:
 layout:
 publishDate:
 expiryDate:
-highest_point: "[[_Standards/WikiData/WD~Ulawun,74158]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Bismarck_Archipelago,154628]]"
-part_of: "[[_Standards/WikiData/WD~Bismarck_Archipelago,154628]]"
+highest_point: "[[_Standards/WikiData/WD~Ulawun,74158|WD~Ulawun,74158]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Bismarck_Archipelago,154628|WD~Bismarck_Archipelago,154628]]"
+part_of: "[[_Standards/WikiData/WD~Bismarck_Archipelago,154628|WD~Bismarck_Archipelago,154628]]"
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Bismarck_Sea,199436]]"
-  - "[[_Standards/WikiData/WD~Solomon_Sea,199479]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Dampier,221125]]"
+  - "[[_Standards/WikiData/WD~Bismarck_Sea,199436|WD~Bismarck_Sea,199436]]"
+  - "[[_Standards/WikiData/WD~Solomon_Sea,199479|WD~Solomon_Sea,199479]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Dampier,221125|WD~William_Dampier,221125]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~West_New_Britain_Province,667468]]"
-  - "[[_Standards/WikiData/WD~East_New_Britain_Province,753702]]"
-  - "[[_Standards/WikiData/WD~Islands_Region,1400588]]"
-capital: "[[_Standards/WikiData/WD~Kokopo,1017369]]"
+  - "[[_Standards/WikiData/WD~West_New_Britain_Province,667468|WD~West_New_Britain_Province,667468]]"
+  - "[[_Standards/WikiData/WD~East_New_Britain_Province,753702|WD~East_New_Britain_Province,753702]]"
+  - "[[_Standards/WikiData/WD~Islands_Region,1400588|WD~Islands_Region,1400588]]"
+capital: "[[_Standards/WikiData/WD~Kokopo,1017369|WD~Kokopo,1017369]]"
 time_of_discovery_or_invention: 1700-02-27T00:00:00Z
-continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
-country: "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
+continent: "[[_Standards/WikiData/WD~Insular_Oceania,538|WD~Insular_Oceania,538]]"
+country: "[[_Standards/WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]"
+instance_of: "[[_Standards/WikiData/WD~island,23442|WD~island,23442]]"
 length: 520
 width: 146
 elevation_above_sea_level: 2334

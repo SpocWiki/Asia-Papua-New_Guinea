@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::-9.5] 
 [name::Port Moresby] 
 State ::  
-Country ::[[../../../Papua_New_Guinea]]~South~East/Malay_Archipelago/Brunei/Papua_New_Guinea]]]  
+Country ::[[../../../Papua_New_Guinea|Papua_New_Guinea]]~South~East/Malay_Archipelago/Brunei/Papua_New_Guinea|Papua_New_Guinea]]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 

@@ -89,7 +89,7 @@ markerFolder: ./West_New_Britain/
 >
 > West New Britain produces palm oil for export with large oil palm plantations on the north coast of the province especially in the Kimbe region. There are logging activities in the interior and on the south coast. The Walindi dive resort near Kimbe is a tourist destination for visitors to Papua New Guinea.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/West%20New%20Britain%20Province)
+> [Wikipedia](https://en.wikipedia.org/wiki/West%20New%20Britain%20Province) 
 
 
 ## Confidential Links & Embeds: 

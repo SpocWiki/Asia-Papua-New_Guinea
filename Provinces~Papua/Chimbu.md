@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Chimbu/
 markerFolder: ./Chimbu/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

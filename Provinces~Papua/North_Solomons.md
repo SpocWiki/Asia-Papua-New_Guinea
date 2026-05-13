@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./North_Solomons/
 markerFolder: ./North_Solomons/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

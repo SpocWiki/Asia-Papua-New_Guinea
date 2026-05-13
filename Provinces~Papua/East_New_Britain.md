@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./East_New_Britain/
 markerFolder: ./East_New_Britain/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./New_Guinea~Central/
 markerFolder: ./New_Guinea~Central/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Eastern_Highlands/
 markerFolder: ./Eastern_Highlands/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

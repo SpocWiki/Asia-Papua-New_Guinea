@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./East_Sepik/
 markerFolder: ./East_Sepik/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

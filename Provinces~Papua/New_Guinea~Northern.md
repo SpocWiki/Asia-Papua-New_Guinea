@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./New_Guinea~Northern/
 markerFolder: ./New_Guinea~Northern/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

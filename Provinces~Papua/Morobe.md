@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Morobe/
 markerFolder: ./Morobe/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

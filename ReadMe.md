@@ -259,9 +259,9 @@ dv_UNTERM_Chinese_Formal: 巴布亚新几内亚独立国
 dv_UNTERM_French_Formal: l'État indépendant de Papouasie-Nouvelle-Guinée
 dv_UNTERM_Russian: Папуа-Новая Гвинея
 dv_UNTERM_Russian_Formal: Независимое государство Папуа-Новая Гвинея
-dv_Region_Name: '[[../../../Oceania|Oceania]]'
+dv_Region_Name: '[[../../../../Oceania|Oceania]]'
 dv_Intermediate_Region_Name: '[[Papua-New_Guinea]]'
-dv_Sub-region_Name: '[[../../../Australasia/Melanesia|Melanesia]]]'
+dv_Sub-region_Name: '[[../../../../Australasia/Melanesia|Melanesia]]]'
 dv_Region: 9
 dv_Sub-region: 54
 dv_Geoname-ID: 2088628
@@ -285,7 +285,7 @@ dv_ISO2: PG
 dv_ISO3: PNG
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
+  - '[[../../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]]'
@@ -296,17 +296,17 @@ dv_is_:
 dv_has_name_de: Papua-Neuguinea
 dv_Area-Total: 462840
 dv_Area-Land: 452860
-dv_has_place_continent: '[[../../../Oceania|Oceania]]'
+dv_has_place_continent: '[[../../../../Oceania|Oceania]]'
 dv_VehicleCode: PNG
 dv_Capital: '[[Port_Moresby]]'
 dv_Alcohol-l: 3.5
 dv_Language-Id: 499
-dv_is_a_: '[[../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 147.117
 dv_has_place_latitude: -9.5
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
+- '[[../../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]]'
@@ -675,7 +675,7 @@ markerFile: [[Papua-New_Guinea]]
 
 ```leaflet
 id: Papua-New_Guinea_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -696,10 +696,10 @@ darkMode: false
 [has_name_en::Papua New Guinea] 
 has_name_de = `=this.dv_has_name_de` 
 
-![[Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg|Emblem_of_Papua_New_Guinea.svg]] 
+![[../Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg|Emblem_of_Papua_New_Guinea.svg]] 
 
 
-![[Papua_New_Guinea/Flag_of_Papua_New_Guinea.svg|350]] 
+![[../Papua_New_Guinea/Flag_of_Papua_New_Guinea.svg|350]] 
 
 
 Area-Total = `=this.dv_Area-Total` 
